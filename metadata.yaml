@@ -10,12 +10,17 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Uuno_Kailas
     - https://fi.wikipedia.org/wiki/Uuno_Kailas
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Södergran, Edith
     gutenberg_agent_id: '57800'
     url: http://www.gutenberg.org/2009/agents/57800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75053#Levottomia-unia-b-Runoja
 gutenberg_issued: '2025-01-06'
 gutenberg_type: Text
 identifiers:
